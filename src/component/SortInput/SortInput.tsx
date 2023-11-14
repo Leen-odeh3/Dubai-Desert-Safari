@@ -1,6 +1,7 @@
 import "./sort.css";
 
 const SortInput = ({ toursLength,setSortItem, sortItem }) => {
+  
   return (
     <div className="sort-input-container">
       <div className="available-tours">
