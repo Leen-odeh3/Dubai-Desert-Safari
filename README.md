@@ -1,5 +1,9 @@
 ### Dubai-Desert-Safari
+<a href="https://res.cloudinary.com/dll0c6zey/image/upload/v1699999416/screencapture-localhost-5173-2023-11-15-00_57_45_y7p3jq.png" target="_blank"> HomePage </a>
+<br/>
+<a href="https://res.cloudinary.com/dll0c6zey/image/upload/v1699999434/screencapture-localhost-5173-register-2023-11-15-01_00_04_qmh11b.png" target="_blank" >RegisterPage </a>
+</br>
+<a href="https://res.cloudinary.com/dll0c6zey/image/upload/v1699999408/screencapture-localhost-5173-login-2023-11-15-00_59_51_h6crzu.png" target="_blank" >LoginPage </a>
+</br>
+<a href="https://res.cloudinary.com/dll0c6zey/image/upload/v1699999405/screencapture-localhost-5173-about-2023-11-15-01_01_44_rfxky5.png" target="_blank" >AboutPage </a>
 
-![screencapture-localhost-5173-2023-11-15-00_57_45](https://github.com/Leen-odeh3/Dubai-Desert-Safari/assets/123558998/9072425d-d44c-4dab-a80f-b293956bcd52)
-![screencapture-localhost-5173-register-2023-11-15-01_00_04](https://github.com/Leen-odeh3/Dubai-Desert-Safari/assets/123558998/57deb4a7-fdde-4e6d-854e-2a67ab4809d6)
-![screencapture-localhost-5173-login-2023-11-15-00_59_51](https://github.com/Leen-odeh3/Dubai-Desert-Safari/assets/123558998/e723868e-c677-472d-9406-1c7ddc241e61)
