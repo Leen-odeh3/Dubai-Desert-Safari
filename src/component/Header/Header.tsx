@@ -1,10 +1,24 @@
+import { useState } from "react";
+import "./header.scss";
+import Navbar from "./Navbar";
+import Logo from "./Logo";
 
 const Header = () => {
-  return (
-    <div>
-      header
-    </div>
-  )
-}
+  const [toggle, setToggle] = useState<boolean>(false);
 
-export default Header
+  return (
+    <header className="header">
+      <Logo />
+      <Navbar toggle={toggle} setToggle={setToggle} />
+      <div onClick={() => setToggle((prev) => !prev)} className="header-menu">
+        {toggle ? (
+          <i className="bi bi-x-lg"></i>
+        ) : (
+          <i className="bi bi-list"></i>
+        )}
+      </div>
+    </header>
+  );
+};
+
+export default Header;
