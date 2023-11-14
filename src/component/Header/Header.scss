@@ -45,7 +45,7 @@ $background-color_1: white;
 	cursor: pointer;
 	text-decoration: none;
 	&:hover {
-		color: $color_3;
+		color: $color_3 !important;
 	}
 	i {
 		margin-right: 4px;

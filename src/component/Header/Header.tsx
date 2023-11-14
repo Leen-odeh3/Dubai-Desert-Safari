@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className="header">
       <Logo />
-      <Navbar toggle={toggle} setToggle={setToggle} />
+      <Navbar toggle={toggle} />
       <div onClick={() => setToggle((prev) => !prev)} className="header-menu">
         {toggle ? (
           <i className="bi bi-x-lg"></i>
